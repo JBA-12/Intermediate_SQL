@@ -18,3 +18,6 @@ Coming to the other sql files here :
    player in P is not dominated by any other player in the table player_regular_season_career.
    Also here, For two players p1 and p2, we define that p1 dominates p2 if and only if p1 has a higher gp (games played) and eff (efficiency rating) value than p2.
 4) nba_delete_all.sql file contains SQL code to drop all the tables and views created.   
+5) Results.pdf is a concatenation of all the results obtained from the above queries used.
+
+In this entire Work only the Intermediate SQL is used!!
