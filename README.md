@@ -11,8 +11,8 @@ Coming to the other sql files here :
    i) In the first part of this code ,The count of the number of players in each position is calculated from the table Players.<br>
    ii) In the second part of this code, The top-5 most Productive Years are found. Here Productive Years is determined based on the total number of games played (gp) by all the players, 
    including both regular seasons and playoffs, for each year.<br>
-   iii) In the third part of this code, The top-10 most efficient players among the players who have played more than 500 games are found. Here efficiency rating is defined as follows:
-         eff = (pts + reb + ast + stl + blk − ((fga − fgm) + (fta − ftm) + turnover))
+   iii) In the third part of this code, The top-10 most efficient players among the players who have played more than 500 games are found. Here efficiency rating is defined as follows:<br>
+         eff = (pts + reb + ast + stl + blk − ((fga − fgm) + (fta − ftm) + turnover))<br>
    iv) In the fourth part of this code, The number of players who have played more regular season games in the year 1990 than regular season games in any other year in their career is found.
    v) In the fifth part of this code, All time-best players from the table player_regular_season_career are found. Here all time-best players refers to the set of players P, so that each 
    player in P is not dominated by any other player in the table player_regular_season_career.
